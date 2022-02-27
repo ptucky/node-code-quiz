@@ -1,0 +1,11 @@
+{
+  "name": "code-quiz",
+  "version": "0.0.1",
+  "description": "Node 12, retrive data NAV from https://codequiz.azurewebsites.net",
+  "author": "Pravee Wiangin",
+  "main": "quiz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
